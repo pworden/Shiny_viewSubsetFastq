@@ -6,7 +6,7 @@
 
 This Shiny app allows users to upload a FASTQ file, analyze the distribution of read lengths - including changing the maximum and minimum read lengths visible, and then download subsets of the original FASTQ file in both FASTQ and FASTA formats.
 
-This Shiny app, written in R, is to visualiz read lengths from a FASTQ file via a histogram of read lengths. The maximum and minimum read lengths defined by the user can then serve as parameters to subset a fastq and/or fasta file.
+This Shiny app, written in R, is to visualize read lengths from a FASTQ file via a histogram of read lengths. The maximum and minimum read lengths defined by the user can then serve as parameters to subset a fastq and/or fasta file.
 
 ---
 
